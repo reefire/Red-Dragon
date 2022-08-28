@@ -30,7 +30,7 @@ global.ownername = ' ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐' //Owner Name
 global.botname = ' ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐' //Bot Name
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.btnurl = 'https://youtube.com/channel/UC3kVpYtBjlxZj4gjbxPBM5A' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
@@ -43,7 +43,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Hashan.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://youtube.com/channel/UC3kVpYtBjlxZj4gjbxPBM5A' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
