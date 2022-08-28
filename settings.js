@@ -22,9 +22,9 @@ global.APIKeys = {
 global.alivemsg = `My name is  ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐
 My Creator is  ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+771337628'] //Owner number in aive msg
-global.premium = ['+771337628'] //Owner Number info
-global.ownernomer = '+771337628' //Owner Number <<<
+global.owner = ['+723921905'] //Owner number in aive msg
+global.premium = ['+723921905'] //Owner Number info
+global.ownernomer = '+723921905' //Owner Number <<<
 
 global.ownername = ' ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐' //Owner Name
 global.botname = ' ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐' //Bot Name
@@ -54,7 +54,7 @@ global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈 ඉදාම් ටිකක්',
+    wait: '👉👈 ටිකක් ඉම්න',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
